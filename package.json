@@ -4,16 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "a11y": "bbc-a11y",
+    "selenium": "ruby selenium/tests.rb"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Thatdamnqa/clairshaw.co.uk-tests.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Daniel Shaw <daniel@thatdamnqa.com>",
+  "license": "Public Domain",
   "bugs": {
-    "url": "https://github.com/Thatdamnqa/clairshaw.co.uk-tests/issues"
+    "url": "https://github.com/thatdamnqa/clairshaw.co.uk-tests/issues"
   },
   "homepage": "https://github.com/Thatdamnqa/clairshaw.co.uk-tests#readme",
   "devDependencies": {

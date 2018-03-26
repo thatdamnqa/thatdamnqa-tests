@@ -1,0 +1,22 @@
+{
+  "name": "thatdamnqa.com-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thatdamnqa/clairshaw.co.uk-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thatdamnqa/clairshaw.co.uk-tests/issues"
+  },
+  "homepage": "https://github.com/Thatdamnqa/clairshaw.co.uk-tests#readme",
+  "devDependencies": {
+    "bbc-a11y": "^1.4.0"
+  }
+}
